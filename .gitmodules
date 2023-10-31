@@ -1,0 +1,3 @@
+[submodule "week1_baseball"]
+	path = week1_baseball
+	url = https://github.com/LastCow9000/woowa-precourse-6-java-baseball.git
