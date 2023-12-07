@@ -7,3 +7,6 @@
 [submodule "week3_lotto"]
 	path = week3_lotto
 	url = https://github.com/LastCow9000/woowa-precourse-6-java-lotto.git
+[submodule "week4_christmas"]
+	path = week4_christmas
+	url = https://github.com/LastCow9000/java-christmas-6-LastCow9000.git
